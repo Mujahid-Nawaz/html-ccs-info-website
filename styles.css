@@ -1,0 +1,150 @@
+body
+{
+    color: #40514E;
+    margin-left: 0 0 0 0; 
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1
+{
+    font-size: 562.5%;
+    color:  #66BFBF;
+    margin: 50px auto 0 auto;
+    width: 10%;
+    font-family: 'Sacramento' , cursive;
+}
+h2
+{
+    line-height:2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.student
+{
+    font-weight: normal;
+}
+.parent
+{
+    background-color: #EAF6F6;
+    position: relative;
+    height: 75.9 rem;
+    margin-bottom: 10px;
+}
+
+.top-container
+{
+    position: relative;
+    padding-top:200px ;
+}
+.middle-container
+{
+    padding-top: 30px;
+}
+.bottom-container
+{
+    background-color:#66BFBF;
+    padding: 40px;
+    
+}
+a
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: #EAF6F6;
+}
+.footer-link
+{
+    padding-left: 20px;
+    color: #11999E;
+}
+.registerd-text
+{
+    color: #EAF6F6;
+}
+
+.top-cloud
+{
+    position: absolute;
+    height: 200px;
+    width: 342px;
+    right: 400px;
+    padding-top: 100px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    height: 200px;
+    width: 342px;
+    left: 500px;
+}
+.mountain
+{
+    position: relative;
+    top: 0px;
+    height: 713px;
+    padding: 0%;
+}
+.intro
+{
+    padding-bottom: 30px;
+}
+.hr
+{
+    width: 3%;
+    border: 6px dotted;
+    border-style: none none dotted;
+    color: #CDF0EA;
+    margin: 50px auto 50px auto;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+.skill1-img
+{
+    float: left;
+    padding-right: 30px;
+}
+.skill2-img
+{
+    float: right;
+    padding-left: 30px;
+}
+.contact-me
+{
+    line-height: 2;
+}
+.BUTTON_POG {
+    background: #66BFBF;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 29px;
+    font-weight: 100;
+    padding: 7px;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 40px;
+    transition: background-image 4.0s;
+ }
+ .BUTTON_POG:hover
+ {
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+ }
